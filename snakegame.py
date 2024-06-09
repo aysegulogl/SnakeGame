@@ -2,7 +2,7 @@ import pygame
 import time
 import random
 
-# Initialize pygame
+# pygame'i indir
 pygame.init()
 
 # Set display size
